@@ -1,0 +1,17 @@
+{
+  "name": "website",
+  "version": "0.0.1",
+  "description": "Testing",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Ulicsny Kristóf",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^6.0.2"
+  }
+}

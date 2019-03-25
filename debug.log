@@ -1,0 +1,2 @@
+[0321/155438.458:ERROR:process_reader_win.cc(123)] NtOpenThread: {Hozzáférés megtagadva} A folyamat hozzáférést kért egy objektumhoz, de ehhez nem volt engedélye. (0xc0000022)
+[0321/155438.471:ERROR:exception_snapshot_win.cc(98)] thread ID 7972 not found in process
